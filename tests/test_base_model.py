@@ -7,7 +7,6 @@ from models.base_model import BaseModel
 
 class TestBaseModel(unittest.TestCase):
     ''' Test cases for the BaseModel class.'''
-
     def test_save_method(self):
         '''Test the save() method.'''
         my_model = BaseModel()
