@@ -48,7 +48,3 @@
   cursor: pointer;
   margin-left: auto;
 }
-
-.search-button:hover {
-  opacity: 0.9;
-}
